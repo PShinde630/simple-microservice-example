@@ -1,5 +1,3 @@
 .vscode
 .idea
-Dockerfile
-docker-compose.yml
 venv
